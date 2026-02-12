@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avisnet-ship-it.github.io/o-cristo-cosmico/sitemap.xml
